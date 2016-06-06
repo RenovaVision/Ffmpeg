@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Video Filters</string>
+
+    <string name="filter_sahara">Sahara</string>
+    <string name="filter_crush">Crush</string>
+    <string name="filter_blue">Blue</string>
+    <string name="filter_verde">Verde</string>
+    <string name="filter_vignette">Vignette</string>
+    <string name="filter_contrast">Contrast</string>
+    <string name="filter_blur">Blur</string>
+    <string name="filter_sharpen">Sharpen</string>
+    <string name="filter_haze">Haze</string>
+    <string name="filter_saturation">Saturation</string>
+    <string name="filter_exposure">Exposure</string>
+    <string name="filter_pixelated">Pixelate</string>
+    <string name="apply_filters">Apply filters</string>
+</resources>
